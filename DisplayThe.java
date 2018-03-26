@@ -1,3 +1,8 @@
+/**
+ * @author Julian Beaulieu
+ * @version 3.0
+ * @github julianbeaulieu
+ */
 package views;
 
 import java.awt.event.WindowAdapter;
