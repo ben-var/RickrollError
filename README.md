@@ -8,3 +8,7 @@ This will display a JFrame with a rickroll gif
 <br>
 
 and the music
+
+<br>
+
+(More errors will follow!)
